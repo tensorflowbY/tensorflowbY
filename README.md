@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Computer Vision**
 
-- 🤝 I’m looking for help with **CNN, DL**
+- 🤝 I’m looking for help with **CNN, Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tensorflowbY](https://github.com/tensorflowbY)
 
-- 💬 Ask me about **DL, CV**
+- 💬 Ask me about **Deep Learning, Computer Vision**
 
 - 📫 How to reach me **batuhanyilmaz345861@gmail.com**
 
