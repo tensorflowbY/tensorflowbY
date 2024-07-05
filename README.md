@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Computer Vision**
 
-- 🤝 I’m looking for help with **CNN, Deep Learning**
-
 - 👨‍💻 All of my projects are available at [https://github.com/tensorflowbY](https://github.com/tensorflowbY)
 
 - 💬 Ask me about **Deep Learning, Computer Vision**
