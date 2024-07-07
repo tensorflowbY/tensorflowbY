@@ -2,7 +2,7 @@
 #### I am an Artificial İntelligence Developer
 I am trying to improve myself by doing projects in the field of artificial intelligence with Python.
 
-Skills: PYTHON / SCİKİT-LEARN / TENSORFLOW / COMPUTER VİSİON / TRANSFER LEARNİNG
+Skills: PYTHON / TENSORFLOW / COMPUTER VİSİON / TRANSFER LEARNİNG
 
 - 🔭 I’m currently working on Deep Learning 
 - 💬 Ask me about Computer Vision / CNN / Deep Learning 
