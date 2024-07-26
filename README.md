@@ -9,8 +9,6 @@ I am trying to improve myself by doing projects in the field of Computer Vision,
 - 💬 Ask me about Computer Vision / Deep Learning 
 - 📫 How to reach me: batuhanyilmaz345861@gmail.com  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tensorflowbY)  
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tensorflowbY&show_icons=true)  
 
 
