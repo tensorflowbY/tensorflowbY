@@ -1,7 +1,31 @@
+# 💻 Hakkımda
 
-### Python, Computer Vision 👀
+👋 Merhaba! Yapay zeka (AI), CNN ve Görüntü İşleme konularına ilgi duyuyorum. Özellikle Görüntü Sınıflandırma alanında çalışıyorum. Şu anda oyun geliştirme ve yapay zekayı bir araya getirmeyi keşfetmekle meşgulüm.
 
-<p align="left"> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 🔧 Kullandığım Teknolojiler ve Araçlar
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Albumentations](https://img.shields.io/badge/Albumentations-00599C?style=for-the-badge&logo=opencv&logoColor=white)
+
+## 📌 Projeler
+
+- [Tüberküloz Göğüs Röntgeni Sınıflandırma](https://github.com/tensorflowbY/t-n_chest_classification): Tüberküloz ve normal göğüs röntgenlerini sınıflandırmak için VGG16 ve TensorFlow kullandığım bir proje.
+
+## 📊 GitHub İstatistikleri
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tensorflowbY&show_icons=true&theme=radical)
+![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=tensorflowbY&layout=compact&theme=radical)
+
+## 🎯 İlgi Alanlarım
+
+🎮 Oyun Geliştirme ve Yapay Zekayı birleştirerek yenilikçi projeler oluşturmayı seviyorum.
+
+---
+
+![Yazılımcı GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 
 
