@@ -9,6 +9,9 @@
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Albumentations](https://img.shields.io/badge/Albumentations-00599C?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ## 📌 Projeler
 
@@ -26,6 +29,4 @@
 ---
 
 ![Yazılımcı GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
-
-
 
