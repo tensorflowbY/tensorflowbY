@@ -1,8 +1,8 @@
-# 💻 Hakkımda
+# 💻 About Me
 
-👋 Merhaba! Yapay zeka (AI), CNN ve Görüntü İşleme konularına ilgi duyuyorum. Özellikle Görüntü Sınıflandırma alanında çalışıyorum. Şu anda oyun geliştirme ve yapay zekayı bir araya getirmeyi keşfetmekle meşgulüm.
+👋 Hi! I am passionate about Artificial Intelligence (AI), CNNs, and Image Processing. I am particularly interested in Image Classification. Currently, I am exploring the combination of game development and artificial intelligence.
 
-## 🔧 Kullandığım Teknolojiler ve Araçlar
+## 🔧 Technologies and Tools I Use
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -13,20 +13,20 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-## 📌 Projeler
+## 📌 Projects
 
-- [Tüberküloz Göğüs Röntgeni Sınıflandırma](https://github.com/tensorflowbY/t-n_chest_classification): Tüberküloz ve normal göğüs röntgenlerini sınıflandırmak için VGG16 ve TensorFlow kullandığım bir proje.
+- [Tuberculosis Chest X-ray Classification](https://github.com/tensorflowbY/t-n_chest_classification): A project using VGG16 and TensorFlow to classify tuberculosis and normal chest X-rays.
 
-## 📊 GitHub İstatistikleri
+## 📊 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tensorflowbY&show_icons=true&theme=radical)
-![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=tensorflowbY&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tensorflowbY&layout=compact&theme=radical)
 
-## 🎯 İlgi Alanlarım
+## 🎯 Interests
 
-🎮 Oyun Geliştirme ve Yapay Zekayı birleştirerek yenilikçi projeler oluşturmayı seviyorum.
+🎮 I enjoy creating innovative projects by combining game development and artificial intelligence.
 
 ---
 
-![Yazılımcı GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+![Developer GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
