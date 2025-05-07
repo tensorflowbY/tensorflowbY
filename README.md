@@ -1,6 +1,6 @@
 # 💻 About Me
 
-👋 Hi! I am passionate about Artificial Intelligence (AI), CNNs, and Image Processing. I am particularly interested in Image Classification. Currently, I am exploring the combination of game development and artificial intelligence.
+👋 I am an AI developer working on deep learning projects, mainly focused on medical image classification. I use convolutional neural networks (CNNs) and visualization techniques like Grad-CAM to understand and explain model decisions. My goal is to build simple, effective, and meaningful AI solutions
 
 ## 🔧 Technologies and Tools I Use
 
