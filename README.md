@@ -22,11 +22,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tensorflowbY&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tensorflowbY&layout=compact&theme=radical)
 
-## 🎯 Interests
-
-🎮 I enjoy creating innovative projects by combining game development and artificial intelligence.
-
----
-
 ![Developer GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
